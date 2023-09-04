@@ -61,8 +61,15 @@ Remove as many barrier slots as you need depending on the size of your GPU. Thes
 
 • This should be placed without much force and once placed if you removed screws from the slots the screws should be replaced to secure the GPU.
 • If your GPU has a cord to connect power, plug that into the corresponding slot into the PSU.
+## 8: Installing the power supply unit (PSU)
+• Slide the PSU into the designated location and make sure the fan is oriented pointing outside the case. 
+
+• Use the screws provided to lock the PSU into the correct place.
+
+You will have to connect the cords into the corresponding outlets which should be labeled.
+
+• To connect all switches and USB ports you will have to pull out the cords that were tucked away in step 6.
+
+• Inspect each cord to find the corresponding port on the motherboard. 
 
 # Result:
-
-# output:
-
