@@ -3,6 +3,8 @@
 # Aim:
 To assembling the system
 # Material Required:
+```
+• Case
 • Motherboard
 • Central Processing Unit(CPU)
 • Solid State Drive (SSD)
@@ -14,6 +16,7 @@ To assembling the system
 • Phillips Screwdriver
 • Hard Drive (Optional)
 • Additional cooling systems(Optional)
+```
 # Procedure:
 
 # Result:
